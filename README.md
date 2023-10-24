@@ -1,7 +1,3 @@
-<p align="center">
-<img width="60%" src="https://github.com/edoardottt/images/blob/main/eJPT-notes/ejpt.jpg">
-</p>
-
 > **Note**
 > These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
 
